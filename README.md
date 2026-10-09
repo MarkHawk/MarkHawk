@@ -12,9 +12,9 @@ I build tools to reproduce problems, automate the repetitive parts of
 support, and put AI to practical use. I build with AI-assisted tooling
 (Claude Code) and experiment with local LLMs.
 
-**Currently building:** an identity lab that reproduces common SSO failures
-on demand, with a support runbook for each one.
-
-**Featured:** [psirt-watch](https://github.com/MarkHawk/psirt-watch),
-a dashboard that tracks Cisco security advisories through the public
-openVuln API.
+**Featured:**
+- [identity-lab](https://github.com/MarkHawk/identity-lab): a Docker
+  identity lab that reproduces common SSO failures on demand, with a
+  support runbook for each one
+- [psirt-watch](https://github.com/MarkHawk/psirt-watch): a dashboard
+  that tracks Cisco security advisories through the public openVuln API
