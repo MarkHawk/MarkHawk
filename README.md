@@ -1,6 +1,5 @@
 # Mark Hawkings
 
-**Technical Support & Infrastructure Engineer** · London, UK
 
 I solve production problems: failing logins and SSO, integrations that
 misbehave, systems that need understanding quickly under pressure. My
