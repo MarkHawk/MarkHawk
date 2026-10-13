@@ -1,7 +1,5 @@
 # Mark Hawkings
 
-**Technical Support & Infrastructure Engineer** · London, UK
-
 I solve production problems: failing logins and SSO, integrations that misbehave, systems that need understanding quickly under pressure. My background is enterprise infrastructure across financial services, broadcasting and the public sector. My current work is identity and access management (SAML, OIDC, MFA, RADIUS, LDAP).
 
 Most of that work is with customers. I get a quick picture of how their environment fits together, explain what is going wrong in terms that make sense to them, and stay with it until it is fixed.
