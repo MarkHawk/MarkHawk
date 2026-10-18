@@ -13,4 +13,5 @@ I build tools to reproduce problems, automate the repetitive parts of support, a
 - [hemisphere](https://github.com/MarkHawk/hemisphere): drives a Gakken WorldEye spherical display from a Raspberry Pi 3 or a Windows PC, with a calibrated lens model and a framework for new visuals
 - [identity-lab](https://github.com/MarkHawk/identity-lab): a Docker identity lab that reproduces SAML, OIDC, LDAP and RADIUS failures on demand, each with a support runbook and automated tests, and runs in GitHub Codespaces with no local setup
 - [token-inspector](https://github.com/MarkHawk/token-inspector): an offline SAML and OIDC troubleshooting tool that explains in plain English what is wrong with a token or response, gives the likely cause and the next step, and is tested on real captures from identity-lab
+- [rate-limit-probe](https://github.com/MarkHawk/rate-limit-probe): diagnoses "429 Too Many Requests" tickets: finds the real limit, checks Retry-After and rate-limit headers, and says whether the fix belongs to the client or the API
 - [psirt-watch](https://github.com/MarkHawk/psirt-watch): a dashboard that tracks Cisco security advisories through the public openVuln API
