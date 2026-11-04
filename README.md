@@ -10,7 +10,7 @@ I build tools to reproduce problems, automate the repetitive parts of support, a
 
 **Featured**
 
-**Start here:** [Walkthrough: from ticket to fix, with every tool](https://github.com/MarkHawk/identity-lab/blob/main/docs/walkthrough.md#start-here-chapters-1-and-2), a support ticket followed from the first message to the fix in about 10 minutes, then eight more chapters through the lab and the tools below.
+**Start here:** [Walkthrough: from ticket to fix, with every tool](https://github.com/MarkHawk/identity-lab/blob/main/docs/walkthrough.md#start-here-chapters-1-and-2), a support ticket followed from the first message to the fix in about 10 minutes, then seven more chapters through the lab and the tools below.
 
 - [identity-lab](https://github.com/MarkHawk/identity-lab): a Docker identity lab that reproduces SAML, OIDC, LDAP, RADIUS and MFA failures on demand, each with a support runbook and automated tests, and runs in GitHub Codespaces with no local setup
 - [triage-assistant](https://github.com/MarkHawk/triage-assistant): reads a support ticket, finds the matching identity-lab runbook, and either names the likely cause with evidence checked against the ticket and logs or asks the questions that would confirm it, then drafts the customer reply. Runs on a local 14B model through Ollama, with every safety and wording rule enforced in code
