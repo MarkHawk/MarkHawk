@@ -20,3 +20,9 @@ I build tools to reproduce problems, automate the repetitive parts of support, a
 - [identity-support-splunk](https://github.com/MarkHawk/identity-support-splunk): a Splunk app that answers "when did it start, who is affected, and what is the likely cause?" for identity failures, with runbook links, tested on real identity-lab data
 - [psirt-watch](https://github.com/MarkHawk/psirt-watch): a dashboard that tracks Cisco security advisories through the public openVuln API
 - [hemisphere](https://github.com/MarkHawk/hemisphere): drives a Gakken WorldEye spherical display from a Raspberry Pi 3, with a calibrated lens model and a framework for new visuals
+
+- ### Reverse engineering
+
+**[arcade-bootleg-traps](https://github.com/MarkHawk/arcade-bootleg-traps)**: hidden anti-piracy traps in 1979–84 arcade code, traced by disassembling the original ROMs (8080, 6502, 6809, Z80) and proven in MAME, including real bootlegs that tripped them. 11 games, 6 makers.
+
+<a href="https://github.com/MarkHawk/arcade-bootleg-traps"><img src="https://raw.githubusercontent.com/MarkHawk/arcade-bootleg-traps/main/docs/img/mrdu-special-pair.gif" width="480" alt="Mr. Do! genuine against the bootleg Mr. Du!: the diamond gives 1 credit, or 41"></a>
